@@ -30,8 +30,6 @@ We see the correlation between the Number of Offers on the X-axis and the Averag
 
 Finally, I would like to present a prediction model for the average price for the houses based on my previous experience in multivariate regression. So, Based on the equation, someone who’s looking for a house made of bricks with 2000 sq.ft, 2 bedrooms, 2 bathrooms, 1 offer and in the North zone, the average prive will be around $141K.
 
-![image](https://user-images.githubusercontent.com/65595060/187790183-dacf6439-e2ed-49a6-909d-767065035158.png)
-
 
 
 
